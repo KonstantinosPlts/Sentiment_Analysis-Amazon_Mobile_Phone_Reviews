@@ -18,9 +18,6 @@ data_for_classification = data[["Product Name", "Brand Name", "Price", "Reviews"
 
 
 
-
-
-
 ### Classification ###
 
 data = pd.read_csv("./data_for_classification.csv")
